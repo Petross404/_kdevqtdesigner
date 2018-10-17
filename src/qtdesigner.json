@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Category": "Utilities",
+        "Description": "GUI Builder based on Qt Designer",
+        "Icon": "kdevelop",
+        "Id": "kdevqtdesigner",
+        "License": "GPL",
+        "Name": "Qt Designer Integration",
+        "ServiceTypes": [
+            "KDevelop/Plugin"
+        ]
+    },
+    "X-KDevelop-Category": "Global",
+    "X-KDevelop-Mode": "GUI"
+}
